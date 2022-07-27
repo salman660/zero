@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/salman660/zero/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Privacy Policy is effective for 3D Wallpaper Parallax under Apptic labs only.
 
 ```markdown
-**Privacy Policy**
 
 Apptic Labs built the 3D Parallax Wallpaper app as a Freemium app. This SERVICE is provided by Apptic Labs at no cost and is intended for use as is.
 
