@@ -1,5 +1,27 @@
 ## 3D Parallax Wallpaper 
 
+With sensor-controlled parallax backgrounds, these 💎 3D Parallax Live Wallpaper Backgrounds give your home screen and lock screen a real 3D depth effect. 😉 Watch the video to see the amazing 3D effect. Impress your friends with the HD & Holograms illusion!
+
+EXCLUSIVE FEATURES:
+✔️50+ high-quality PREMIUM live wallpapers.
+✔️New live wallpapers are added and updated weekly!
+✔️For both lock screen and home screen.
+✔️Easy to preview and set as your wallpaper.
+✔️Support for most aspects including ultra-wide 18:9.
+✔️Real-time 3D holograms - animated backgrounds.
+✔️Small system resource usage and battery-friendly!
+✔️Parallax 3D wallpaper 4K!
+✔️Smooth rendering!
+ ✔️No special permissions are needed.
+
+
+💎  With 3D parallax wallpapers being updated on daily basis, we have a constantly growing collection of 3D anime, games, aesthetics, battle Royale AMOLED 4K, and girly live wallpapers and backgrounds for you to choose from!
+
+ℹ️ Please keep in mind that Lock Screen live wallpaper support is device manufacturer dependent, such as Samsung, Xiaomi, Huawei, Pixel, One Plus Pro, and others.
+Not all manufacturers allow you to set live wallpaper only on the Lock Screen.
+
+✅ Install 3D Parallax Live Wallpaper right now to transform your home screen! Forget about low-quality wallpapers that drain your battery and enter a new magical world of incredibly cool 3D animated backgrounds!
+
 ### Privacy Policy
 
 This Privacy Policy is effective for 3D Wallpaper Parallax under Apptic labs only.
