@@ -231,13 +231,6 @@
     "test": false  
   },
   {
-    "id": "00033",
-    "title": "Warior",
-    "author": "Apptic Labs",
-    "site": "",
-    "test": false  
-  },
-  {
     "id": "00034",
     "title": "Night Life",
     "author": "Apptic Labs",
@@ -254,13 +247,6 @@
   {
     "id": "00036",
     "title": "Audi Car",
-    "author": "Apptic Labs",
-    "site": "",
-    "test": false
-  },
-  {
-    "id": "00037",
-    "title": "Tokyo",
     "author": "Apptic Labs",
     "site": "",
     "test": false
@@ -303,13 +289,6 @@
   {
     "id": "00043",
     "title": "Neon Aesthetic",
-    "author": "Apptic Labs",
-    "site": "",
-    "test": false
-  },
-  {
-    "id": "00044",
-    "title": "Illusion",
     "author": "Apptic Labs",
     "site": "",
     "test": false
